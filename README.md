@@ -1,5 +1,15 @@
 ## OpenCV: Open Source Computer Vision Library
 
+### Project Overview 
+
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library.
+
+### Features 
+
+- Image processing
+- Object detection
+- Machine learning
+- Real-time applications
 
 ### Resources
 
@@ -34,3 +44,11 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * [Follow OpenCV on Mastodon](http://mastodon.social/@opencv) in the Fediverse
 * [Follow OpenCV on Twitter](https://twitter.com/opencvlive)
 * [OpenCV.ai](https://opencv.ai): Computer Vision and AI development services from the OpenCV team.
+
+### Contact Information 
+
+For any inquiries, please reach out to our [community forum](https://forum.opencv.org/). 
+
+### Acknowledgments 
+
+Special thanks to all the contributors and supporters of the OpenCV project.
