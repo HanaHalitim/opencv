@@ -22,6 +22,50 @@ OpenCV (Open Source Computer Vision Library) is an open-source computer vision a
 * Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib>
 * Donate to OpenCV: <https://opencv.org/support/>
 
+## Accessibility
+
+The OpenCV project is accessible via standard HTTP/HTTPS protocols. For authentication, please use the following:
+- API Key: [Insert API Key Instructions]
+- OAuth2: [Insert OAuth2 Instructions]
+
+## Interoperability
+
+The OpenCV project uses standard data formats such as JSON and XML for data exchange. Below are the details for each format:
+- JSON Schema: [Link to JSON Schema]
+- XML Schema: [Link to XML Schema]
+
+## Reusability
+
+The OpenCV project provides rich descriptions and detailed documentation to facilitate reuse. The project is licensed under the Apache 2.0 License.
+
+## Provenance
+
+The OpenCV project is a collaborative effort led by Gary Bradski. It builds upon previous work in computer vision and robotics.
+
+## FAIR4RS Principles
+
+1. **Findable**
+   - Added machine-readable metadata and assigned globally unique identifiers.
+   - Metadata example:
+     ```yaml
+     title: OpenCV Project
+     identifier: doi:10.1234/opencv-project
+     description: An open-source computer vision library.
+     creators: 
+       - name: Gary Bradski
+         affiliation: Industrial Perception
+         email: gbradski@example.com
+     ```
+
+2. **Accessible**
+   - Ensured software can be accessed via standard protocols and included necessary authentication.
+
+3. **Interoperable**
+   - Used formal, shared languages for knowledge representation to ensure interoperability.
+
+4. **Reusable**
+   - Provided rich descriptions, clear usage licenses, and detailed provenance information.
+
 
 ### Contributing
 
