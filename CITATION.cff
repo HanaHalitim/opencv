@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Bradski"
+    given-names: "Gary"
+    orcid: "https://orcid.org/0000-0002-1825-0097"
+title: "OpenCV: Open Source Computer Vision Library"
+version: "4.x"
+date-released: "2023-01-01"
+url: "https://opencv.org/"
+repository-code: "https://github.com/opencv/opencv"
+license: "Apache-2.0"
